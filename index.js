@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Robin NTW","Playing Minecraft"];
+const statusMessages = ["Listening to /Help","Hosted By Medium Bots"];
 
 
 let currentIndex = 0;
